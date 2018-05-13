@@ -1,0 +1,2 @@
+SOFTINCLUDE /incisiv/15.20/tools/inca/files/cds.lib
+define worklib ../worklib
